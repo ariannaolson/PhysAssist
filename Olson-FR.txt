@@ -1,0 +1,13 @@
+The system shall contain equations, constant definitions, and variable definitions partitioned by subject matter.
+
+The system shall allow users to select an equation from a subject to compute or simulate.
+
+The system shall display with any selected equation the descriptions of each of its variables, terms, and constants.
+
+The system shall have each variable in a selected equation either:
+1.	Accept a value by user input, or 
+2.	Compute the value of the variable and return it as the output of the equation.
+
+The system shall give the option of running a simulation if and only if the selected equation is a function of time.
+
+The system shall increment a simulation forward or backward by a user-specified metric interval of time when a user selects the forward or backward arrow.

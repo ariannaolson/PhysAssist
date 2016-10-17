@@ -1,0 +1,11 @@
+As a physics professor,  
+I want to share simulations with my students, 
+So that I can provide my students with illustrations of the material we cover in class. 
+ 
+As a physics student, 
+I want to practice solving a specific category of physics problems, 
+So that I can practice material I struggle with. 
+ 
+As an engineer, 
+I want to have simple physics equations solved automatically, 
+So that I don’t make waste time or make dumb mistakes. 

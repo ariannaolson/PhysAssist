@@ -1,0 +1,7 @@
+The system shall stop running a simulation within 5 seconds of that simulation generating an error.
+
+The system shall display an error message and return control to the user when a simulation generates an error.
+
+The system shall retrieve any variable or constant definition within 3 seconds.
+
+The system shall organize the equations such that a user will have to click at most 5 times to reach any equation in the system.
